@@ -1,0 +1,8 @@
+{
+  "name": "create-rome-app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/romeland/create-rome-app.git",
+  "author": "FrankQiu <iam.frankqiu@gmail.com>",
+  "license": "MIT"
+}
