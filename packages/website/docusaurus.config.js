@@ -1,17 +1,17 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Create Rome App',
+  tagline: 'Set up a web app with Rome.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Rome Land', // Usually your GitHub org/user name.
+  projectName: 'create-rome-app', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Create Rome App',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/romeland/create-rome-app',
           label: 'GitHub',
           position: 'right',
         },
@@ -40,6 +40,10 @@ module.exports = {
             {
               label: 'Tutorial',
               to: '/docs/intro',
+            },
+            {
+              label: 'Learn Rome',
+              to: 'https://rome.tools/',
             },
           ],
         },
@@ -74,7 +78,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      // copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
