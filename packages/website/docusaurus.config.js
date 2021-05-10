@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Create Rome App',
   tagline: 'Set up a web app with Rome.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://www.create-rome-app.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
