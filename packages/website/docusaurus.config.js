@@ -1,6 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Create Rome App',
+  // plugins: ['@docusaurus/plugin-google-analytics'],
   tagline: 'Set up a web app with Rome.',
   url: 'https://www.create-rome-app.com',
   baseUrl: '/',
@@ -10,6 +11,11 @@ module.exports = {
   organizationName: 'Rome Land', // Usually your GitHub org/user name.
   projectName: 'create-rome-app', // Usually your repo name.
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'G-BCNK3DT04N',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
     navbar: {
       title: 'Create Rome App',
       logo: {
