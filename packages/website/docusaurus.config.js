@@ -12,7 +12,7 @@ module.exports = {
   projectName: 'create-rome-app', // Usually your repo name.
   themeConfig: {
     googleAnalytics: {
-      trackingID: 'G-BCNK3DT04N',
+      trackingID: 'G-DKL3ZQHEGF',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
