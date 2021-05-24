@@ -10,6 +10,11 @@ module.exports = {
   organizationName: 'Rome Land', // Usually your GitHub org/user name.
   projectName: 'create-rome-app', // Usually your repo name.
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'G-DKL3ZQHEGF',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
     navbar: {
       title: 'Create Rome App',
       logo: {
