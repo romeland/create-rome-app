@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./packages/website/static/img/logo.png" alt="logo of create rome app">
+  <img width="400" src="./packages/website/static/img/logo_transparent.png" alt="logo of create rome app">
   <br>
   <br>
 </p>
