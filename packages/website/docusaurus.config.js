@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Create Rome App',
-  tagline: 'Set up a web app with Rome.',
+  tagline: 'Set up a web app totally zero configuration.',
   url: 'https://www.create-rome-app.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
