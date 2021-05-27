@@ -4,7 +4,12 @@
   <br>
   <br>
 </p>
+<p align="center">
 
+<img alt="GitHub" src="https://img.shields.io/github/license/romeland/create-rome-app">
+
+</p>
+<br/>
 # Create Rome App
 
 Set up a web app totally zero configuration.
