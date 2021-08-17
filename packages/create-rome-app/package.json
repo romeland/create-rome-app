@@ -15,5 +15,8 @@
   "devDependencies": {
     "@types/node": "^15.6.1",
     "@types/semver": "^7.3.6"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
